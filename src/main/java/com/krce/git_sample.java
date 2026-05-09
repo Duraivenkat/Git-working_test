@@ -9,8 +9,9 @@ public class git_sample {
         int d = 5;
 
         int result = a + b;
+        int sum=a+c;
 
         System.out.println("Sum is: " + result);
-//https://github.com/Duraivenkat/Git-working_test.git
+        System.out.println("Sum is: " +sum );
     }
 }
