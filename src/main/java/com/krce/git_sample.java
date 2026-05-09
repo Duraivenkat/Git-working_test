@@ -5,6 +5,8 @@ public class git_sample {
 
         int a = 4;
         int b = 5;
+        int c = 4;
+        int d = 5;
 
         int result = a + b;
 
